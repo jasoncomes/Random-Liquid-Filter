@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# rand / https://www.notion.so/highereducation/rand-2b29b8b5f60241abbc660b8100f6cf41
+# rand / https://github.com/jasoncomes/Random-Liquid-Filter
 # Provides a randomized number up to the max number provided.
 # {{ max_number | rand }}
 
